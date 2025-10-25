@@ -1,6 +1,6 @@
 # Property Pulse
 
-> A web application to help you find your next rental property.
+> A web application to help you find your next rental property
 
 
 This is the second iteration of the app/course that uses server actions instead of API routes.
